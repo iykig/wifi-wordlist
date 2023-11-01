@@ -29,4 +29,5 @@ python3 main1.py
 ```
 <!--END_SECTION:waka-->
 
-red=*support*
+*support*
++windows+
