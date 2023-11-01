@@ -8,7 +8,7 @@ git clone https://github.com/iykig/wifi-wordlist.git
 
 <!--START_SECTION:waka-->
 ```
-cd WiFi_Cracker-main
+cd WiFi_Cracker
 ```
 <!--END_SECTION:waka-->
 
