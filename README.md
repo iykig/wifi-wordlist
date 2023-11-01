@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```
-get sudo https://github.com/iykig/wifi-wordlist.git
+git clone https://github.com/iykig/wifi-wordlist.git
 ```
 <!--END_SECTION:waka-->
 
