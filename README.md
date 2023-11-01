@@ -12,7 +12,7 @@ cd WiFi_Cracker-main
 ```
 <!--END_SECTION:waka-->
 
-// test password //
+ test password 
 
 <!--START_SECTION:waka-->
 ```
@@ -20,7 +20,7 @@ python3 main.py
 ```
 <!--END_SECTION:waka-->
 
-// show password //
+ show password
 
 <!--START_SECTION:waka-->
 ```
