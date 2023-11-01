@@ -31,4 +31,4 @@ python3 main1.py
 
 *support*
 *windows*
-/kali*
+*kali*
